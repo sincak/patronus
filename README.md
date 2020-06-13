@@ -1,7 +1,7 @@
 # patronus
 The Patronus Project (R) is a voluntary associate driven block-chain based surveillance bot 
 
-Patronus app communicatges wsith server to:
+Patronus app communicates with server to:
 1) Identify areas with and without Patronus associates
 2) Provide identity of contacts not a Patronus associate
 3) Provide local court with identity information during stops
